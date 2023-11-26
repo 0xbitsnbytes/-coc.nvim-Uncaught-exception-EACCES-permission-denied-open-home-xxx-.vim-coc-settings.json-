@@ -1,0 +1,6 @@
+This problem is caused due to R/W problem in terminal .
+
+let's change the permission ...
+*************Copy and Paste this*******
+chmod 600 ~/.vim/coc-settings.json
+chmod 644 ~/.vimrc
